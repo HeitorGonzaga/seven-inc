@@ -23,7 +23,7 @@ A Seven solicita a criação de um App que possibilite a criação novos funcion
 
 #Capturas de Tela
 
-![1](https://user-images.githubusercontent.com/30155829/134657886-f9b09cec-3c12-4896-bf15-27498f25fd27.jpeg | width=100)
+![1](https://user-images.githubusercontent.com/30155829/134657886-f9b09cec-3c12-4896-bf15-27498f25fd27.jpeg | width=50)
 ![2](https://user-images.githubusercontent.com/30155829/134657909-6c8df927-04d0-4806-aef0-866fc3ff4385.jpeg)
 ![3](https://user-images.githubusercontent.com/30155829/134657931-24c67dad-633c-49b4-9d09-740a28db0913.jpeg)
 ![4](https://user-images.githubusercontent.com/30155829/134657948-f193c9db-e40c-424f-952a-fe92ef05651d.jpeg)
