@@ -166,7 +166,7 @@ const Employee: React.FC = () => {
                             _handleCreate();
                         }}
                     />
-                    <Button onPress={() => { _handleCreate() }} isLoading={false}>Save a new Employee</Button>
+                    <Button onPress={async() => { await _handleCreate() }} isLoading={false}>Save a new Employee</Button>
                 </BodyContainer>
 
             </ScrollView>
