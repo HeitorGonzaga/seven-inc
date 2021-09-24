@@ -21,7 +21,8 @@ A partir desse cadastro, um recurso REST para gerenciamento desse modelo com os 
 
 A Seven solicita a criação de um App que possibilite a criação novos funcionários para atender a necessidade do desenvolvedor Backend, para tal será utilizada a rota disponibilizada POST / employees.
 
-#Capturas de Tela
+## Capturas de Tela
+
 <p float="left">
 <img src='https://user-images.githubusercontent.com/30155829/134657886-f9b09cec-3c12-4896-bf15-27498f25fd27.jpeg' width="300" height="600">
 
